@@ -1,0 +1,42 @@
+[
+    {
+        "artist":"Rammstein",
+        "title":"Deutschland",
+        "genre":"metal, industrial",
+        "album":"untitled",
+        "link":"https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0?si=eef35ba8d623431d"
+
+    },
+    {
+        "artist":"Peter Fox",
+        "title":"Stadtaffe",
+        "genre":"pop, reggae",
+        "album":"Stadtaffe",
+        "link":"https://open.spotify.com/track/1vb6REmvWiCWFkj7zHR8QE?si=e123f268be374ebe"
+
+    },
+    {
+        "artist":"The White Stripes",
+        "title":"Seven Nation Army",
+        "genre":"rock",
+        "album":"Elephant",
+        "link":"https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc?si=cd9c4669db4e4c17"
+
+    },
+    {
+        "artist":"M83",
+        "title":"Midnight City",
+        "genre":"electronic, synthpop",
+        "album":"Hurry Up, We're Dreaming",
+        "link":"https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9?si=13eaecfe5c334279"
+
+    },
+    {
+        "artist":"Max Coveri",
+        "title":"Running in the 90s",
+        "genre":"eurobeat",
+        "album":"Single",
+        "link":"https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3?si=4271dfce3ae24ec0"
+
+    }
+]
